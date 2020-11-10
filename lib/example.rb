@@ -9,7 +9,7 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
-puts phrasels
+puts phrase
 puts phrase
 end 
 
